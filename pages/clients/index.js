@@ -9,4 +9,4 @@ function ClientsPage() {
 
 export default ClientsPage;
 
-// http://localhost:3000/clients
+// path is http://localhost:3000/clients
